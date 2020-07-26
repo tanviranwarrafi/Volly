@@ -47,6 +47,5 @@ RequestQueue requestQueue = Volley.newRequestQueue(Insert.this);
 ```
 
 ### Screenshots
-<img src="screenshots/one.jpg" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/two.jpg" width="200">&nbsp;&nbsp;&nbsp;&nbsp; <img 
-src="screenshots/three.jpg" width="200">
-<img src="screenshots/four.jpg" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/five.jpg" width="200">
+<img src="screenshots/one.jpg" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/two.jpg" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/three.jpg" width="200">
+<img src="screenshots/four.jpg" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/five.jpg" width="200">
