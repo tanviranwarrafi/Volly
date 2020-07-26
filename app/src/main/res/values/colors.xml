@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2290EF</color>
+    <color name="colorPrimaryDark">#2290EF</color>
+    <color name="colorAccent">#2290EF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="borderColor">#12A0F4</color>
+
+    <!-- Google Logo Color -->
+    <color name="google_blue">#4285F4</color>
+    <color name="google_green">#34A853</color>
+    <color name="google_yellow">#FBBC05</color>
+    <color name="google_red">#EA4335</color>
+
+    <!-- Google Apps Color -->
+    <color name="app_blue">#4285f4</color>
+    <color name="app_blue_dark">#3367d6</color>
+    <color name="app_green">#0f9d58</color>
+    <color name="app_green_dark">#0b8043</color>
+    <color name="app_yellow">#f4b400</color>
+    <color name="app_yellow_dark">#f09300</color>
+    <color name="app_red">#db4437</color>
+</resources>
